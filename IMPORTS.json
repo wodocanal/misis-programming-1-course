@@ -1,0 +1,71 @@
+{
+  "imported_on": "2026-11-26",
+  "repositories": [
+    {
+      "directory": "BIVT-25-Lab-1",
+      "url": "https://github.com/wodocanal/BIVT-25-Lab-1",
+      "branch": "main",
+      "commit": "c9fc5b24759d324571e4271710eff3e7c2f3f52a"
+    },
+    {
+      "directory": "BIVT-25-Lab-2",
+      "url": "https://github.com/wodocanal/BIVT-25-Lab-2",
+      "branch": "main",
+      "commit": "5009e956f2e472f20d2e49ad435b0aa60cd92819"
+    },
+    {
+      "directory": "BIVT-25-Lab-3",
+      "url": "https://github.com/wodocanal/BIVT-25-Lab-3",
+      "branch": "main",
+      "commit": "9446003d714057812ee0831e098d1c48b2c812e2"
+    },
+    {
+      "directory": "BIVT-25-Lab-4",
+      "url": "https://github.com/wodocanal/BIVT-25-Lab-4",
+      "branch": "main",
+      "commit": "cb74da94bd6e75c337d5fc146aa11db9fd813fc1"
+    },
+    {
+      "directory": "BIVT-25-Lab-5",
+      "url": "https://github.com/wodocanal/BIVT-25-Lab-5",
+      "branch": "main",
+      "commit": "74a37973bd3dfcdb4be013c2ca8975141712336f"
+    },
+    {
+      "directory": "BIVT-25-Lab-6",
+      "url": "https://github.com/wodocanal/BIVT-25-Lab-6",
+      "branch": "main",
+      "commit": "0124dfc5e2b6e6ca8a69abe2c6f789257f7690bb"
+    },
+    {
+      "directory": "BIVT-25-Lab-7",
+      "url": "https://github.com/wodocanal/BIVT-25-Lab-7",
+      "branch": "main",
+      "commit": "9290bbf8fbb5de4cc7a263df0cbad43f640e21b8"
+    },
+    {
+      "directory": "BIVT-25-Lab-8",
+      "url": "https://github.com/wodocanal/BIVT-25-Lab-8",
+      "branch": "main",
+      "commit": "42038e7a2d011621a875de355f7501dbeec06f5c"
+    },
+    {
+      "directory": "BIVT-25-Lab-9",
+      "url": "https://github.com/wodocanal/BIVT-25-Lab-9",
+      "branch": "main",
+      "commit": "c231144f8c90d6a5dba951e3522b98c2caca3828"
+    },
+    {
+      "directory": "BIVT-25-Lab-10",
+      "url": "https://github.com/wodocanal/BIVT-25-Lab-10",
+      "branch": "main",
+      "commit": "824c5212a5ff2ae49e7797f04e2e1441c61d674f"
+    },
+    {
+      "directory": "chess-misis-oop",
+      "url": "https://github.com/wodocanal/chess-misis-oop",
+      "branch": "main",
+      "commit": "a41177c34c366f36b9eeab825b12e5e309653a72"
+    }
+  ]
+}

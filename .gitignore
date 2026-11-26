@@ -1,0 +1,12 @@
+# .NET build output
+**/[Bb]in/
+**/[Oo]bj/
+**/TestResults/
+
+# Local IDE and OS files
+**/.vs/
+**/.idea/
+*.user
+*.suo
+.DS_Store
+Thumbs.db

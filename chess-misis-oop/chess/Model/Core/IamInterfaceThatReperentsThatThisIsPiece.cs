@@ -1,0 +1,19 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-FileCopyrightText: 2026 Maxim Naumov (KiraFlux) <kiraflux@duck.com>
+// SPDX-FileCopyrightText: 2026 Yuri Golyshev (wodocanal)
+
+namespace Model.Core;
+
+public interface IamInterfaceThatReperentsThatThisIsPiece {
+    piece_color_t get_color { get; }
+
+    piece_type_t get_type { get; }
+
+    position_t get_position { get; }
+
+    string get_symbol { get; }
+
+    IReadOnlyCollection<position_t> get_available_moves(board_t board);
+
+    bool can_attack(position_t target, board_t board);
+}
